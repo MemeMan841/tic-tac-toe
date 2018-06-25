@@ -1,0 +1,50 @@
+button{
+	width: 75px;
+	height: 75px;
+	border: black 2px solid;
+	background-color: green;
+	color: white;
+	font-family: Arial;
+	font-weight: bold;
+	text-shadow: black 3px 3px;
+	font-size: 1.5em;
+}
+
+button:focus {outline: 0;}
+
+button:hover{
+	background-color: darkgreen;
+}
+
+#game {
+	text-align: center;
+	margin-top: 75px;
+
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: midnightblue;
+}
+#top{
+	text-align: center;
+	background-color: blue;
+	padding: 15px;
+	color: white;
+	font-family: Arial;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: black 3px 3px;
+	
+}
+
+#test{
+	margin-top: 15px;
+	text-align: center;
+	color: white;
+	font-family: Arial;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: black 3px 3px;
+}
